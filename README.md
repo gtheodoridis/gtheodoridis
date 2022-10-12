@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yorgos
-- 👀 I’m interested in Data Science an Cyber Security
+- 👀 I’m interested in Data Science and Cyber Security
 - 🌱 I’m currently researching IoT Security using Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
